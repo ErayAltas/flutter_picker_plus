@@ -1259,7 +1259,6 @@ abstract class PickerAdapter<T> {
       textHeightBehavior: text.textHeightBehavior,
       semanticsLabel: text.semanticsLabel,
       selectionColor: text.selectionColor,
-      semanticsIdentifier: text.semanticsIdentifier,
       key: text.key,
     );
   }
